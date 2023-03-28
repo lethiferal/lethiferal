@@ -1,7 +1,15 @@
 
 <br>
 <p align="center">
-   <a href="https://github.com/lethiferal"><img src="https://github-readme-stats.vercel.app/api?username=lethiferal&show_icons=true&title_color=999999&text_color=636363&icon_color=999999&bg_color=202020&hide_border=true&include_all_commits=true&count_private=true" /></a>
+   <a href="https://github.com/lethiferal"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lethiferal&theme=nord_dark" /></a>
+</p>
+<p align="center">
+   <a href="https://github.com/lethiferal"><img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lethiferal&theme=nord_dark" /></a>
+   <a href="https://github.com/lethiferal"><img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=lethiferal&theme=nord_dark" /></a>
+</p>
+<p align="center">
+   <a href="https://github.com/lethiferal"><img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=lethiferal&theme=nord_dark" /></a>
+   <a href="https://github.com/lethiferal"><img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=lethiferal&theme=nord_dark&utcOffset=5.5" /></a>
 </p>
 </br>
 
