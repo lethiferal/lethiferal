@@ -90,6 +90,7 @@ jobs:
           plugin_music_played_at: yes
           plugin_music_playlist: ${{ secrets.PLAYLIST }}
           plugin_music_provider: spotify
+          plugin_music_user: wastebeing
           plugin_music_time_range: short
           plugin_music_top_type: tracks
           plugin_people: yes
