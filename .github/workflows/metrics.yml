@@ -44,11 +44,6 @@ jobs:
           plugin_activity_limit: 5
           plugin_activity_load: 300
           plugin_activity_visibility: all
-          plugin_calendar: yes
-          plugin_calendar_limit: 1
-          plugin_discussions: yes
-          plugin_discussions_categories: yes
-          plugin_gists: yes
           plugin_habits: yes
           plugin_habits_charts: yes
           plugin_habits_charts_type: classic
@@ -79,19 +74,12 @@ jobs:
           plugin_lines_history_limit: 1
           plugin_lines_repositories_limit: 4
           plugin_lines_sections: base
-          plugin_notable: yes
-          plugin_notable_from: all
-          plugin_notable_indepth: yes
-          plugin_notable_self: yes
-          plugin_notable_types: commit
           plugin_people: yes
           plugin_people_identicons: yes
           plugin_people_limit: 20
           plugin_people_shuffle: yes
           plugin_people_size: 15
           plugin_people_types: followers, following
-          plugin_projects: yes
-          plugin_projects_limit: 4
           plugin_repositories: yes
           plugin_repositories_order: featured, pinned, starred, random
           plugin_starlists: yes
