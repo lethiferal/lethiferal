@@ -1,1 +1,11 @@
-[<img align="center" width="800" alt="Metrics" src="https://raw.githubusercontent.com/lethiferal/lethiferal/main/github-metrics.svg">](#)
+---
+
+<p align="center">
+  <img src="./metrics.svg" alt="GitHub Overview">
+</p>
+
+<p align="center">
+  <img src="./metrics-dev.svg" alt="Development Activity">
+</p>
+
+---
